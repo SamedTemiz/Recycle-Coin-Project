@@ -1,0 +1,224 @@
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.exe
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.deps.json
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.runtimeconfig.json
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.runtimeconfig.dev.json
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\ref\RecycleCoin.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.pdb
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.AssemblyReference.cache
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Anasayfa.resources
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Giris.resources
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.KayitOl.resources
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.MailKod.resources
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Properties.Resources.resources
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifremiUnuttum.resources
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifreSifirlama.resources
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.GenerateResource.cache
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.AssemblyInfoInputs.cache
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.AssemblyInfo.cs
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.CoreCompileInputs.cache
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\ref\RecycleCoin.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.pdb
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.genruntimeconfig.cache
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\QRCoder.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Admin.resources
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.KullaniciBilgiGuncelleme.resources
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifreGuncelleme.resources
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Urun.resources
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.CopyComplete
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merts\Masaüstü\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.exe
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.deps.json
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.runtimeconfig.json
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.runtimeconfig.dev.json
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\ref\RecycleCoin.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.pdb
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\QRCoder.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.AssemblyReference.cache
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Admin.resources
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Anasayfa.resources
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Giris.resources
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.KayitOl.resources
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.KullaniciBilgiGuncelleme.resources
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.MailKod.resources
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Properties.Resources.resources
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifreGuncelleme.resources
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifremiUnuttum.resources
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifreSifirlama.resources
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Urun.resources
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.GenerateResource.cache
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.AssemblyInfoInputs.cache
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.AssemblyInfo.cs
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.CoreCompileInputs.cache
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.CopyComplete
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\ref\RecycleCoin.dll
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.pdb
+C:\Users\merts\Masaüstü\2022-2023 güz dönemi\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.genruntimeconfig.cache
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.exe
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.deps.json
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.runtimeconfig.json
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.runtimeconfig.dev.json
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\ref\RecycleCoin.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.pdb
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\QRCoder.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.AssemblyReference.cache
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Admin.resources
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Anasayfa.resources
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Giris.resources
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.KayitOl.resources
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.KullaniciBilgiGuncelleme.resources
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Properties.Resources.resources
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifreGuncelleme.resources
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifremiUnuttum.resources
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Urun.resources
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.GenerateResource.cache
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.AssemblyInfoInputs.cache
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.AssemblyInfo.cs
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.CoreCompileInputs.cache
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.CopyComplete
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\ref\RecycleCoin.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.pdb
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.genruntimeconfig.cache
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\AForge.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\AForge.Video.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+C:\Users\merts\Belgeler\GitHub\RecycleCoin\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\zxing.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.exe
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.deps.json
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.runtimeconfig.json
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.runtimeconfig.dev.json
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\ref\RecycleCoin.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.pdb
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\AForge.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\AForge.Video.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\QRCoder.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\zxing.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.AssemblyReference.cache
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Admin.resources
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Anasayfa.resources
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Giris.resources
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.KayitOl.resources
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.KullaniciBilgiGuncelleme.resources
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Properties.Resources.resources
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifreGuncelleme.resources
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifremiUnuttum.resources
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Urun.resources
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.GenerateResource.cache
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.AssemblyInfoInputs.cache
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.AssemblyInfo.cs
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.CoreCompileInputs.cache
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.CopyComplete
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\ref\RecycleCoin.dll
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.pdb
+C:\Users\Samed\Desktop\GithubRepo\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.genruntimeconfig.cache
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.exe
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.deps.json
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.runtimeconfig.json
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.runtimeconfig.dev.json
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\ref\RecycleCoin.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\RecycleCoin.pdb
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\AForge.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\AForge.Video.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\AForge.Video.DirectShow.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\QRCoder.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Memory.Data.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\zxing.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.AssemblyReference.cache
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Admin.resources
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Anasayfa.resources
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Giris.resources
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.KayitOl.resources
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.KullaniciBilgiGuncelleme.resources
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Properties.Resources.resources
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifreGuncelleme.resources
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.SifremiUnuttum.resources
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.Urun.resources
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.GenerateResource.cache
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.AssemblyInfoInputs.cache
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.AssemblyInfo.cs
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.CoreCompileInputs.cache
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.csproj.CopyComplete
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\ref\RecycleCoin.dll
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.pdb
+C:\Users\Samed\Desktop\RecycleCoin\RecycleCoin\obj\Debug\net5.0-windows\RecycleCoin.genruntimeconfig.cache
